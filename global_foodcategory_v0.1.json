@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Dairy and Egg Products"
+  },
+  {
+    "id": 2,
+    "name": "Spices and Herbs"
+  },
+  {
+    "id": 3,
+    "name": "Baby Foods"
+  },
+  {
+    "id": 4,
+    "name": "Fats and Oils"
+  },
+  {
+    "id": 5,
+    "name": "Poultry Products"
+  },
+  {
+    "id": 6,
+    "name": "Soups, Sauces, and Gravies"
+  },
+  {
+    "id": 7,
+    "name": "Sausages and Luncheon Meats"
+  },
+  {
+    "id": 8,
+    "name": "Breakfast Cereals"
+  },
+  {
+    "id": 9,
+    "name": "Fruits and Fruit Juices"
+  },
+  {
+    "id": 10,
+    "name": "Pork Products"
+  },
+  {
+    "id": 11,
+    "name": "Vegetables and Vegetable Products"
+  },
+  {
+    "id": 12,
+    "name": "Nut and Seed Products"
+  },
+  {
+    "id": 13,
+    "name": "Beef Products"
+  },
+  {
+    "id": 14,
+    "name": "Beverages"
+  },
+  {
+    "id": 15,
+    "name": "Finfish and Shellfish Products"
+  },
+  {
+    "id": 16,
+    "name": "Legumes and Legume Products"
+  },
+  {
+    "id": 17,
+    "name": "Lamb, Veal, and Game Products"
+  },
+  {
+    "id": 18,
+    "name": "Baked Products"
+  },
+  {
+    "id": 19,
+    "name": "Sweets"
+  },
+  {
+    "id": 20,
+    "name": "Cereal Grains and Pasta"
+  },
+  {
+    "id": 21,
+    "name": "Fast Foods"
+  },
+  {
+    "id": 22,
+    "name": "Meals, Entrees, and Side Dishes"
+  },
+  {
+    "id": 23,
+    "name": "Snacks"
+  },
+  {
+    "id": 24,
+    "name": "American Indian/Alaska Native Foods"
+  },
+  {
+    "id": 25,
+    "name": "Restaurant Foods"
+  },
+  {
+    "id": 26,
+    "name": "Branded Food Products Database"
+  },
+  {
+    "id": 27,
+    "name": "Quality Control Materials"
+  },
+  {
+    "id": 28,
+    "name": "Alcoholic Beverages"
+  },
+  {
+    "id": 29,
+    "name": "Condiments"
+  },
+  {
+    "id": 30,
+    "name": "Baking & Cooking Essentials"
+  }
+]
