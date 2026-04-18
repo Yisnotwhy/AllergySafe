@@ -1,0 +1,77 @@
+{
+  "version": 0.1,
+  "items": [
+    {
+      "id": "g0476",
+      "name": "Salt"
+    },
+    {
+      "id": "g0477",
+      "name": "Salt, Himalayan"
+    },
+    {
+      "id": "g0478",
+      "name": "Salt, Iodized"
+    },
+    {
+      "id": "g0479",
+      "name": "Salt, Not Iodized"
+    },
+    {
+      "id": "g0480",
+      "name": "Salt, Sea"
+    },
+    {
+      "id": "g0527",
+      "name": "Sugar"
+    },
+    {
+      "id": "g0528",
+      "name": "Sugar, Brown"
+    },
+    {
+      "id": "g0529",
+      "name": "Sugar, Cane"
+    },
+    {
+      "id": "g0514",
+      "name": "Sparkling Water"
+    },
+    {
+      "id": "g0582",
+      "name": "Water"
+    },
+    {
+      "id": "g0355",
+      "name": "Oil"
+    },
+    {
+      "id": "g0410",
+      "name": "Pepper"
+    },
+    {
+      "id": "g0415",
+      "name": "Pepper, Black"
+    },
+    {
+      "id": "g0419",
+      "name": "Pepper, Red"
+    },
+    {
+      "id": "g0422",
+      "name": "Pepper, White"
+    },
+    {
+      "id": "g0026",
+      "name": "Baking Powder"
+    },
+    {
+      "id": "g0027",
+      "name": "Baking Soda"
+    },
+    {
+      "id": "g0597",
+      "name": "Yeast"
+    }
+  ]
+}
