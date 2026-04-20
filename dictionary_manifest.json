@@ -1,0 +1,14 @@
+{
+  "global_items": {
+    "version": "v0.3",
+    "file_url": "https://yisnotwhy.github.io/AllergySafe/global_items.json"
+  },
+  "global_foodcategory": {
+    "version": "v0.1",
+    "file_url": "https://yisnotwhy.github.io/AllergySafe/global_foodcategory.json"
+  },
+  "ignored_foods": {
+	"version": "v0.1",
+    "file_url": "https://yisnotwhy.github.io/AllergySafe/ignored_foods.json"
+  }
+}
